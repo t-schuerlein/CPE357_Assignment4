@@ -1,0 +1,3 @@
+ // if(dir == NULL) {
+    //     return;
+    // }
